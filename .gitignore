@@ -1,3 +1,5 @@
 gen_jor/__pycache__/
 db.sqlite3
 gen_jor/__init__*
+gen_workspace/__pycache__/
+gen_workspace/migrations/
